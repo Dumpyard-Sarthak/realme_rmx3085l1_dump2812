@@ -1,0 +1,14 @@
+# RMX3085-user 12 SP1A.210812.016 R.202205111917 release-keys
+- manufacturer: 
+- platform: mt6785
+- codename: RMX3085L1
+- flavor: lineage_nashc-userdebug
+- release: 12
+- id: SQ3A.220705.003.A1
+- incremental: eng.ben.20220719.113124
+- tags: dev-keys
+- fingerprint: realme/RMX3085/RMX3085L1:12/SP1A.210812.016/R.GDPR.202205271503:user/release-keys
+- is_ab: false
+- brand: realme
+- branch: RMX3085-user-12-SP1A.210812.016-R.202205111917-release-keys
+- repo: realme_rmx3085l1_dump2812
